@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m meow 👋
 
-<!--
-**meowscles69/meowscles69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **ElizaOS supporter** building and experimenting with autonomous agents, AI systems, and on-chain integrations.
 
-Here are some ideas to get you started:
+## About Me
+- Supporting and building within the **ElizaOS / ElizaCloud** ecosystem  
+- Interested in AI agents, automation, and decentralized systems  
+- Building in public, iterating fast, learning as I go  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You’ll Find Here
+- Experiments with ElizaOS agents  
+- Prototypes, prompts, and integrations  
+- Early-stage ideas and work-in-progress projects  
+
+## Philosophy
+Keep things simple.  
+Ship early.  
+Improve in public.
+
+---
+
+Feel free to explore, fork, or reach out.
+
