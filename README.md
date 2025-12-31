@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/703b385c-fcaf-41d3-a4b7-b4d8ce5330df" />
+
+
 # Hi, I’m meow 👋
 
 I’m an **ElizaOS supporter** building and experimenting with autonomous agents, AI systems, and on-chain integrations.
